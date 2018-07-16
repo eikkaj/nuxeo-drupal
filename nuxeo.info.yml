@@ -1,0 +1,6 @@
+name: Nuxeo Module
+description: Nuxeo module
+package: Custom
+
+type: module
+core: 8.x
